@@ -52,25 +52,6 @@ class _HomeState extends State<Home> {
               });
             },
           ),
-
-          /*
-          IconButton( 
-            icon: const Icon(Icons.videocam),
-            onPressed: (){
-              print("Ação videocam");
-            },
-          ),
-          IconButton( 
-            icon: const Icon(Icons.account_circle),
-            onPressed: (){
-              print("Ação conta");
-            },
-          ), 
-          */
-
-
-
-
         ],
       ),
       body: Container(
